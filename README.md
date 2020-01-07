@@ -1,2 +1,3 @@
 # kyletezak
- Designer Essay
+
+[Index](https://bebhionnq.github.io/kyletezak/index.html)
